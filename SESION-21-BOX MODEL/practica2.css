@@ -1,0 +1,31 @@
+.general{
+border: 5px rgb(233, 97, 6) outset;
+background-color: rgb(253, 172, 78);
+
+}
+.titulo{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    border-radius: 20px;
+    border: 2px black dashed;
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 40px;
+    
+   
+}
+.texto{
+     border: 2px black solid;
+     display: block;
+     margin-bottom:20px ;
+     margin-left: 10%  ;
+     padding: 4%;
+     padding-top: 0px;
+     width: 380px;
+     background-color: rgba(105, 255, 143, 0.644);
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

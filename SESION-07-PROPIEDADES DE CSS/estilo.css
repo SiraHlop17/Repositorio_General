@@ -1,0 +1,41 @@
+.Titulo {
+    text-align: center;
+    background-color: rgb(250, 176, 39);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px rgb(250, 176, 39) solid;
+
+
+}
+
+img {
+    width: 100px;
+}
+
+table {
+
+    border: 2px maroon solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+th {
+    border: 2px maroon solid;
+
+
+}
+
+.Productos {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.producto{
+    
+    width: 400px;
+    height:250px;
+    background-color:orange;
+    border: 2px maroon solid;
+    border-radius: 20px;
+    margin: auto;
+    display: inline-block;
+}
