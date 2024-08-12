@@ -9,13 +9,16 @@
 
 img {
     width: 100px;
+    height: 100px;
+    margin-top: 15px;
+    
 }
 
 table {
 
     border: 2px maroon solid;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    width: 100%;
 
 }
 
@@ -30,12 +33,13 @@ th {
 }
 
 .producto{
-    
-    width: 400px;
-    height:250px;
-    background-color:orange;
+    display: inline-block; 
+    width: 280px;
+    height: 200px;
     border: 2px maroon solid;
-    border-radius: 20px;
     margin: auto;
-    display: inline-block;
+    border-radius: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+
 }

@@ -37,9 +37,7 @@ document.getElementById('op3').addEventListener('click', function () {
 document.getElementById('op4').addEventListener('click', function () {
     actualizarPuntaje(3);
 }) 
-document.getElementById('siguiente').addEventListener('click', function () {
-    actualizarPuntaje();
-}) 
+
  
 function mostrarPreguntas() {
     document.getElementById('pregunta').innerHTML = preguntas[i];
